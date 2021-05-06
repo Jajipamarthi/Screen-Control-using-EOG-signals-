@@ -1,0 +1,1 @@
+[oldSetting, status] = AutoBrightness([screenNumber=0],[ newSetting]);
